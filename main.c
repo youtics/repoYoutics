@@ -11,8 +11,7 @@ int main()
     int numero=30;
     int flag=0;
 
-    printf("RAMA MASTER");
-    printf("RAMA MASTER");
+    printf("MODIFICACION EN EL MAIN DESDE HEAD-> main");
     return 0;
 }
 
