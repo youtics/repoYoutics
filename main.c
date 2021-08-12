@@ -15,6 +15,9 @@ int main()
     printf("MODIFICACION EN EL MAIN DESDE HEAD-> main");
 
     printf("RAMA MASTER");
+    printf("MODIFICACION EN EL MAIN DESDE HEAD-> main");
+
+    printf("RAMA MASTER");
 
     return 0;
 }
