@@ -12,7 +12,6 @@ int main()
     int flag=0;
 
     printf("RAMA MASTER");
-    printf("RAMA MASTER");
     return 0;
 }
 
