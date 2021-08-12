@@ -11,11 +11,16 @@ int main()
     int numero=30;
     int flag=0;
 
+
     printf("MODIFICACION EN EL MAIN DESDE HEAD-> main");
+
+    printf("RAMA MASTER");
+
     return 0;
 }
 
 void mensaje()
 {
+    printf("Mensaje...");
     printf("Mensaje...");
 }
